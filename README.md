@@ -5,7 +5,7 @@
 
 **CPUSchedulingVisualizer** is an interactive web-based platform designed to visualize various CPU scheduling algorithms. This tool helps students, developers, and educators to better understand CPU scheduling by providing dynamic, visual simulations.
 
-**Live Demo** [Website Link](https://cpu-scheduling-visualizer-is.netlify.app/)
+**🎮Live Demo** [Website Link](https://cpu-scheduling-visualizer-is.netlify.app/)
 
 
 ## ✨ Features
